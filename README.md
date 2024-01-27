@@ -19,3 +19,4 @@ Bu proje, **React** kullanılarak oluşturulmuş bir Pokemon savaş simülasyonu
 
 ## Ekran Gifi
 
+![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/Pokemon-Card-Game/assets/147662915/1cd3774f-e962-4e1c-8296-783c026559a1)
